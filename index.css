@@ -1,0 +1,12 @@
+.app-container {
+    display: grid;
+    place-items: center;
+    color:white;
+    background-color: brown;
+    width:500px;
+    height:600px;
+    margin: 20px;
+    margin-left: 400px;
+    text-align: center;
+  }
+  
